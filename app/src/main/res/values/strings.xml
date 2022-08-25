@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">rollDice</string>
+    <string name="roll">roll</string>
+    <string name="imagem_de_dado">Imagem de dado</string>
 </resources>
